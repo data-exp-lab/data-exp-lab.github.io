@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Alex Lindsay joins the DXL
