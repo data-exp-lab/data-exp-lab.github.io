@@ -1,0 +1,48 @@
+---
+layout: base
+---
+
+    <header>
+	    <div class="header">
+	        <div class="container">
+	            <div class="row">
+              <h1>Projects We Work On</h1>
+              </div>
+	        </div>
+	    </div>  
+    </header>
+{{ content }}
+
+  <div class="container">
+{% for proj in site.data.projects %}
+<div class="row" style="margin-top: 4em;">
+  <div class="col-sm-6 col-sm-offset-4">
+    <h1><a href="{{proj['website']}}">{{proj['_id']}}</a></h1>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-2 col-sm-offset-2">
+    {%if proj['logo'] %}<a href="{{proj['website']}}" class="image-link">
+    <img src="{{proj['logo'] | relative_url}}" style="width:160px;"/>
+  </a>{%endif%}
+  </div>
+  <div class="col-sm-6">
+    {{proj['description']}}
+    {%if proj['other']%}<ul>{%for o in proj['other']%}
+      <li>{{o}}</li>
+    {%endfor%}</ul>{%endif%}
+    {%if proj['team']%}<h3>Team</h3><ul>{%for pos in proj['team']%}
+      <li><b>{{pos['name']}}:</b> {{pos['position']}}, <i>
+        {{pos['begin_month']}} {{pos['begin_year']}} - 
+        {{pos['end_month']}} {{pos['end_year'] | default: 'present')}}</i>
+      </li>
+    {%endfor%}</ul>{%endif%}
+    {%if proj['website']%}
+    <br/><a href="{{proj['website']}}">[{{proj['website']}}]</a>
+    {%endif%}
+    {%if proj['repo']%}<br/><a href="{{proj['repo']}}">[Source Code]</a>{%endif%}
+  </div>
+</div>
+<hr/>
+{% endfor %}
+</div> <!-- container -->

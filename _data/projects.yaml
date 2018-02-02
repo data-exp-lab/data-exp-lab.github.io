@@ -1,7 +1,7 @@
 - _id: SPHGR
   description: SPHGR is designed to present an intuitive, straightforward and
     easy to use interface to galaxy and halo catalogs from simulation outputs.
-  logo: /static/img/logos/sphgr.png
+  logo: /assets/img/logos/sphgr.png
   repo: https://bitbucket.org/rthompson/sphgr
   team:
   - begin_year: 2014
@@ -11,7 +11,7 @@
 - _id: OpenGL Volume Rendering for yt
   description: Adding support for interactively volume rendering adaptive mesh
     refinement data in yt
-  logo: /static/img/logos/openglvr.png
+  logo: /assets/img/logos/openglvr.png
   repo: https://bitbucket.org/yt_analysis/yt
   team:
   - begin_year: 2014
@@ -26,7 +26,7 @@
 - _id: Bitmap Indices
   description: Fast, memory-efficient indexing for datasets composed of discrete
     points (particles) in yt
-  logo: /static/img/logos/bitmap.png
+  logo: /assets/img/logos/bitmap.png
   repo: https://bitbucket.org/langmm/yt-bitmap
   team:
   - begin_year: 2015
@@ -38,7 +38,7 @@
 - _id: Virtual Reality
   description: Loading scientific data into Unity3D with the aim of presenting
     an immersive, virtual reality interface through the HTC Vive and Oculus Rift.
-  logo: /static/img/logos/unity3d_vr.png
+  logo: /assets/img/logos/unity3d_vr.png
   repo: https://bitbucket.org/data-exp-lab/unity3d_vr
   team:
   - begin_year: 2016
@@ -57,7 +57,7 @@
   website: http://adsabs.harvard.edu/abs/2015ApJ...811..152L
 - _id: pyMinecraft
   description: Interface for loading data from yt into Minecraft
-  logo: /static/img/logos/pyminecraft.png
+  logo: /assets/img/logos/pyminecraft.png
   repo: https://bitbucket.org/data-exp-lab/pyMinecraft
   team:
   - begin_year: 2015
@@ -74,7 +74,7 @@
     multi-resolution data. The project supports astrophysical simulations, understanding
     of non-spatial data, voluming rendering of visulations for high-quality scientific
     outreach videos, and developing systems for unstructured mesh datasets.
-  logo: /static/img/logos/yt_logo_cutout_400x400.png
+  logo: /assets/img/logos/yt_logo_cutout_400x400.png
   other:
   - Data access and manipulation
   - Visualization though Slices, projections, oblique slices.
@@ -113,7 +113,7 @@
 - _id: yt hub
   description: Customized JupyterHub deployment including Girder, Tangelo and
     ownCloud integration for storage, analysis and visualization of shared datasets.
-  logo: /static/img/logos/ythub.png
+  logo: /assets/img/logos/ythub.png
   other:
   - Remote data exploration
   - Data sharing and interactivity
