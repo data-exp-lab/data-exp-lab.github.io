@@ -1,0 +1,48 @@
+---
+layout: base
+---
+
+{% include page_header.html %}
+
+{{ content }}
+
+<section id="news">
+  <div class="container">
+
+    <div class="row">
+        <div class="col-lg-12 text-center section-header">
+            <h2>News</h2>
+        </div>
+    </div>
+
+    {% for post in site.posts limit: 3 %}
+    <div class="row">
+       <div class="col-sm-6 col-sm-offset-4">
+          <h3>{{post['title']}}</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-2 col-sm-offset-2">
+            <div>
+               {%if post['image'] %}
+                <div class="center-cropped-small">
+               <img src="{{n['image']}}" class="img-responsive img-centered news-image">
+                </div>
+               {%endif%}
+           </div>
+       </div>
+
+       <div class="col-sm-6">
+            <div class="news-text">
+                <p class="small">
+                <i>{{ post['date'] | date: "%B %e, %Y"}}</i>
+                </p>
+                <p class="small">{{post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+            </div>
+       </div>
+    </div>
+    {%endfor%}
+
+  </div>
+</section>
+
