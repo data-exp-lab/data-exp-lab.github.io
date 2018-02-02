@@ -1,0 +1,131 @@
+- _id: SPHGR
+  description: SPHGR is designed to present an intuitive, straightforward and
+    easy to use interface to galaxy and halo catalogs from simulation outputs.
+  logo: /static/img/logos/sphgr.png
+  repo: https://bitbucket.org/rthompson/sphgr
+  team:
+  - begin_year: 2014
+    name: Robert Thompson
+    position: Lead Developer
+  website: http://rthompsonj.github.io/yt-sphgr.html
+- _id: OpenGL Volume Rendering for yt
+  description: Adding support for interactively volume rendering adaptive mesh
+    refinement data in yt
+  logo: /static/img/logos/openglvr.png
+  repo: https://bitbucket.org/yt_analysis/yt
+  team:
+  - begin_year: 2014
+    name: Chuck Rozhon
+    position: Developer
+  - begin_year: 2015
+    name: Kacper Kowalik
+    position: Developer
+  - begin_year: 2014
+    name: Matthew Turk
+    position: Developer
+- _id: Bitmap Indices
+  description: Fast, memory-efficient indexing for datasets composed of discrete
+    points (particles) in yt
+  logo: /static/img/logos/bitmap.png
+  repo: https://bitbucket.org/langmm/yt-bitmap
+  team:
+  - begin_year: 2015
+    name: Meagan Lang
+    position: Developer
+  - begin_year: 2015
+    name: Matthew Turk
+    position: Developer
+- _id: Virtual Reality
+  description: Loading scientific data into Unity3D with the aim of presenting
+    an immersive, virtual reality interface through the HTC Vive and Oculus Rift.
+  logo: /static/img/logos/unity3d_vr.png
+  repo: https://bitbucket.org/data-exp-lab/unity3d_vr
+  team:
+  - begin_year: 2016
+    name: Robert Thompson
+    position: Lead Developer
+- _id: TesseRACt
+  description: The TesseRACt package is designed to compute concentrations of
+    simulated dark matter halos from volume info for particles generated using
+    Voronoi tesselation. This technique is advantageous as it is non-parametric,
+    does not assume spherical symmetry, and allows for the presence of substructure.
+  repo: https://bitbucket.org/langmm/tesseract
+  team:
+  - begin_year: 2014
+    name: Meagan Lang
+    position: Lead Developer
+  website: http://adsabs.harvard.edu/abs/2015ApJ...811..152L
+- _id: pyMinecraft
+  description: Interface for loading data from yt into Minecraft
+  logo: /static/img/logos/pyminecraft.png
+  repo: https://bitbucket.org/data-exp-lab/pyMinecraft
+  team:
+  - begin_year: 2015
+    name: Robert Thompson
+    position: Developer
+  - begin_year: 2015
+    name: Allyson Julian
+    position: Developer
+  - begin_year: 2015
+    name: Nathan Goldbaum
+    position: Developer
+- _id: yt
+  description: yt is a python package for analyzing and visualizing volumetric,
+    multi-resolution data. The project supports astrophysical simulations, understanding
+    of non-spatial data, voluming rendering of visulations for high-quality scientific
+    outreach videos, and developing systems for unstructured mesh datasets.
+  logo: /static/img/logos/yt_logo_cutout_400x400.png
+  other:
+  - Data access and manipulation
+  - Visualization though Slices, projections, oblique slices.
+  - Parallel execution
+  repo: https://bitbucket.org/yt_analysis/yt
+  team:
+  - begin_month: August
+    begin_year: 2006
+    name: Matthew Turk
+    position: Creator / Developer
+  - begin_month: December
+    begin_year: 2011
+    name: Nathan Goldbaum
+    position: Developer
+  - begin_month: September
+    begin_year: 2011
+    name: Kacper Kowalik
+    position: Developer
+  - begin_month: May
+    begin_year: 2015
+    name: Meagan Lang
+    position: Developer
+  - begin_month: August
+    begin_year: 2015
+    name: Robert Thompson
+    position: Developer
+  - begin_month: May
+    begin_year: 2015
+    name: Allyson Julian
+    position: Developer
+  - begin_month: May
+    begin_year: 2015
+    name: Chuck Rozhon
+    position: Developer
+  website: http://yt-project.org/
+- _id: yt hub
+  description: Customized JupyterHub deployment including Girder, Tangelo and
+    ownCloud integration for storage, analysis and visualization of shared datasets.
+  logo: /static/img/logos/ythub.png
+  other:
+  - Remote data exploration
+  - Data sharing and interactivity
+  - Tutorials and educational resources
+  repo: https://bitbucket.org/yt_analysis/ythub-docs
+  team:
+  - begin_month: January
+    begin_year: 2015
+    name: Kacper Kowalik
+    position: Lead Developer
+  - begin_month: January
+    begin_year: 2015
+    name: Matthew Turk
+    position: Developer
+  website: https://docs.hub.yt
