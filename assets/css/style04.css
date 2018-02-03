@@ -28,7 +28,7 @@ p {
     font-size: 20px;
 }
 
-p.small {
+div.small p {
     font-size: 16px;
 }
 

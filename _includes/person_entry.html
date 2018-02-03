@@ -1,0 +1,27 @@
+{% if p['status'] != 'former' %} 
+  <div class="row" style="margin-top: 4em;">
+    <div class="col-sm-6 col-sm-offset-4">
+      <h1>{{p['honorific']}} {{p['name']}}</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-3 col-sm-offset-1">
+      <div class="center-cropped-people">
+        <img src="{{p['avatar']}}" class="img-responsive img-centered current-project-image"/>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <ul>
+        <li><b>Position:</b> {{p['position'] | capitalize }}</li>
+        {% if p['homepage'] %}
+        <li><a href="{{p['homepage']}}"><b>Homepage</b></a>
+        {% endif %}
+        <li><b>Bio:</b>
+          <div class="small">
+          {{p.content | markdownify}}
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+{% endif %}

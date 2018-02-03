@@ -34,7 +34,7 @@ layout: base
     {%if proj['team']%}<h3>Team</h3><ul>{%for pos in proj['team']%}
       <li><b>{{pos['name']}}:</b> {{pos['position']}}, <i>
         {{pos['begin_month']}} {{pos['begin_year']}} - 
-        {{pos['end_month']}} {{pos['end_year'] | default: 'present')}}</i>
+        {{pos['end_month']}} {{pos['end_year'] | default: 'present'}}</i>
       </li>
     {%endfor%}</ul>{%endif%}
     {%if proj['website']%}
