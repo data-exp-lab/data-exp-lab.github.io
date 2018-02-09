@@ -39,8 +39,9 @@ def convert_doientry(entry):
     journal = entry['container-title']
     if isinstance(journal, list):
         journal = journal[0]
+    yearmonth = '%04i-%02i' % (year, month)
     return {'title': title, 'authors': authors, 'year': year, 'month': month,
-            'doi': doi, 'url': url, 'journal': journal}
+            'doi': doi, 'url': url, 'journal': journal, 'yearmonth': yearmonth}
 
 for ref in pubs['dois']:
     found, val = doi2bib.get_json(ref)
@@ -49,9 +50,12 @@ for ref in pubs['dois']:
 
 arxivs = arxiv2bib.arxiv2bib(pubs['arxiv'])
 for ref in arxivs:
+    month = m.index(ref.month) + 1
+    yearmonth = '%04i-%02i' % (int(ref.year), month)
     bibs.append( {'title': ref.title, 'authors': ref.authors,
                   'year': ref.year,
-                  'month': m.index(ref.month) + 1,
+                  'month': month,
+                  'yearmonth': yearmonth,
                   'url': ref.url,
                   'journal': "arXiv"} )
 

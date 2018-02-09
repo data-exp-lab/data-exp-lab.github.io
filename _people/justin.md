@@ -7,7 +7,7 @@ email: hyschive@gmail.com
 homepage: 
 position: post-doctoral scholar
 honorific: Dr.
-aka: ['Schive, Hsi-Yu', 'Schive, Justin']
+aka: ['Schive, Hsi-Yu', 'Schive, Justin', 'Schive, H.-Y.', 'Hsi-Yu Schive']
 desig: postdoc
 ---
 

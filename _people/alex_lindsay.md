@@ -7,7 +7,7 @@ email: al007@illinois.edu
 homepage: 
 position: post-doctoral scholar
 honorific: Dr.
-aka: []
+aka: ['Lindsay, Alexander']
 desig: postdoc
 status: former
 ---

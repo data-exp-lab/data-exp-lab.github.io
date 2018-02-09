@@ -7,7 +7,7 @@ email: rthompsonj@gmail.com
 homepage: http://rthompsonj.github.io/
 position: post-doctoral scholar
 honorific: Dr.
-aka: [Bobby, 'Thompson, Robert', 'Thompson, Robert J.']
+aka: [Bobby, 'Thompson, Robert', 'Thompson, Robert J.', 'Robert Thompson']
 desig: postdoc
 status: former
 ---

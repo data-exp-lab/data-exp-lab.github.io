@@ -7,7 +7,8 @@ email: nathan12343@gmail.com
 homepage: https://bitbucket.org/ngoldbaum/
 position: Research Scientist
 honorific: Dr.
-aka: [Nathan, 'Goldbaum, Nathan', 'Goldbaum, Nathan J.']
+aka: [Nathan, 'Goldbaum, Nathan', 'Goldbaum, Nathan J.', 'Nathan J. Goldbaum',
+'Nathan Goldbaum', 'Nathan J Goldbaum']
 desig: staff
 ---
 

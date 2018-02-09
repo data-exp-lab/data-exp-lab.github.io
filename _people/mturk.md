@@ -8,7 +8,8 @@ homepage: https://sites.google.com/site/matthewturk/
 position: Assistant Professor
 honorific: Professor
 desig: faculty
-aka: [Matt, 'Turk, Matthew', 'Turk, Matthew J.']
+aka: [Matt, 'Turk, Matthew', 'Turk, Matthew J.', 'Matthew J. Turk', 'Matthew
+Turk']
 ---
 
 Dr. Matthew Turk received his undergraduate degree at Northwestern

@@ -7,7 +7,7 @@ email: xarthisius.kk@gmail.com
 homepage: /static/img/people/kacper-kowalik.jpg
 position: Research Scientist
 honorific: Dr.
-aka: [xarth, 'Kowalik, Kacper']
+aka: [xarth, 'Kowalik, Kacper', 'Kowalik, K.']
 desig: staff
 ---
 

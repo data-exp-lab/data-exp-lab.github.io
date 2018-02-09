@@ -1,0 +1,43 @@
+---
+layout: base
+---
+
+    <header>
+	    <div class="header">
+	        <div class="container">
+	            <div class="row">
+              <h1>Recent Publications</h1>
+              </div>
+	        </div>
+	    </div>  
+    </header>
+
+<div class="container" style="margin-top: 2em;">
+  {% assign lab_authors = "" | split: "," %}
+  {% for person in site.people %}
+  {% assign lab_authors = lab_authors | concat: person.aka %}
+  {% endfor %}
+  {% assign sorted_citations = site.data.citations | sort:"yearmonth" | reverse %}
+{% for pub in sorted_citations %}
+  <div class="row">
+    <div class="col-sm-2 col-sm-offset-2">
+      <ul style="list-style-type: none; ">
+        {% if pub['url'] %}<li><a href="{{pub['url']}}">Download</a></li>{% endif %}
+      </ul>
+    </div>
+    <div class="col-sm-6">
+      <ul style="list-style-type: none; ">
+        <li><h4 style="margin-top: 0px;">{{pub['title']}}</h4></li>
+        <li>{% for author in pub['authors'] %}
+          {% if lab_authors contains author %}<b> {%endif %}
+            {{author}}{% if forloop.last != true %};{%endif%}
+          {% if lab_authors contains author %}</b> {%endif %}
+        {%endfor%}
+        </li>
+        <li>Published in {{pub['journal']}} ({{pub['month']}} / {{pub['year']}})<br/>
+        {% if pub['doi'] %}<li style="margin-top:5px;">DOI: <a href="{{pub['doi']}}">{{pub['doi']}}</a></li>{% endif %}
+  <br/><br/>
+    </div>
+  </div>
+{% endfor %}
+</div>
