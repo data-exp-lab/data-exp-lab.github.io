@@ -16,6 +16,7 @@ layout: base
 {% for des in designations %}
 {% assign folks = site.people | where:"desig",des %}
 {% for p in folks %}
+{% if p['status'] == 'former' %}{%continue%}{%endif%}
 {% include person_entry.html p = p %}
 {% endfor %}
 {% endfor %}
@@ -27,28 +28,5 @@ layout: base
 </div>
 {% assign former_people = site.people | where:"status","former" %}
 {% for p in former_people %}
-  <div class="row" style="margin-top: 4em;">
-    <div class="col-sm-6 col-sm-offset-4">
-      <h1>{{p['honorific']}} {{p['name']}}</h1>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-3 col-sm-offset-1">
-      <div class="center-cropped-people">
-        <img src="{{p['avatar']}}" class="img-responsive img-centered current-project-image"/>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <ul>
-        <li><b>Position:</b> {{p['position'] | capitalize}}</li>
-        {% if p['homepage']%}
-        <li><a href="{{p['homepage']}}"><b>Homepage</b></a>
-        {% endif %}
-        <li><b>Bio:</b>
-          <div class="small">
-          {{p.content | markdownify}}
-          </div>
-      </ul>
-    </div>
-  </div>
+{% include person_entry.html p = p %}
 {% endfor %}
