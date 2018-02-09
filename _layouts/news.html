@@ -11,11 +11,11 @@ layout: base
 
     <div class="row">
         <div class="col-lg-12 text-center section-header">
-            <h2>News</h2>
+            <h2>News Archive</h2>
         </div>
     </div>
 
-    {% for post in site.posts limit: 3 %}
+    {% for post in site.posts %}
     <div class="row">
        <div class="col-sm-6 col-sm-offset-4">
           <h3>{{post['title']}}</h3>
@@ -42,12 +42,6 @@ layout: base
        </div>
     </div>
     {%endfor%}
-    
-    <div class="row">
-       <div class="col-sm-4 col-sm-offset-6">
-           <h4><a href="news.html">News Archives</a></h4>
-        </div>
-    </div>
 
   </div>
 </section>

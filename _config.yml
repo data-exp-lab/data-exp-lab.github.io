@@ -45,3 +45,4 @@ plugins:
 collections:
   people:
     output: true
+    permalink: /:collection/:name
