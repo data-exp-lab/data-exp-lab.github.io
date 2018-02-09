@@ -1,3 +1,4 @@
 ---
 layout: people
+title: People
 ---

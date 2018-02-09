@@ -1,3 +1,4 @@
 ---
 layout: publications
+title: Publications
 ---
