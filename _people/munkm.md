@@ -9,6 +9,7 @@ position: Post-doctoral scholar
 honorific: Dr.
 aka: [Madicken, 'Munk, Madicken', 'Munk, M.' ]
 desig: postdoc
+start_year: 2017
 ---
 
 Madicken Munk obtained her undergraduate degree from Oregon State University in

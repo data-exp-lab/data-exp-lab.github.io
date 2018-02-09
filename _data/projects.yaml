@@ -80,7 +80,11 @@
     begin_year: 2016
     name: Matthew Turk
     position: Co-Investigator
-    website: https://github.com/cropsinsilico/
+  - begin_month: 9
+    begin_year: 2017
+    name: Colleen Heinemann
+    position: Graduate Student
+  website: https://github.com/cropsinsilico/
 - _id: Bitmap Indices
   status: active
   description: Fast, memory-efficient indexing for datasets composed of discrete

@@ -10,6 +10,8 @@ honorific:
 aka: [Allyson, 'Julian, Allyson']
 desig: undergrad
 status: former
+start_year: 2014
+end_year: 2016
 ---
 
 Allyson is an undergraduate at UIUC who likes Linux, bikes, and dogs,

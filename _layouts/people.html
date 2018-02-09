@@ -27,6 +27,7 @@ layout: base
   </div>
 </div>
 {% assign former_people = site.people | where:"status","former" %}
+{% assign former_people = former_people | sort:"end_year" | reverse %}
 {% for p in former_people %}
 {% include person_entry.html p = p %}
 {% endfor %}

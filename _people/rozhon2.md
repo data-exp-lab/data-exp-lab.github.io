@@ -10,6 +10,8 @@ honorific:
 aka: [Chuck, 'Rozhon, Chuck', 'Rozhon, Charles', Charles]
 desig: undergrad
 status: former
+start_year: 2014
+end_year: 2016
 ---
 
 Chuck Rozhon is an undergraduate in Computer Science, whose interests

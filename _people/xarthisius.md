@@ -9,6 +9,7 @@ position: Research Scientist
 honorific: Dr.
 aka: [xarth, 'Kowalik, Kacper', 'Kowalik, K.']
 desig: staff
+start_year: 2014
 ---
 
 Dr Kacper Kowalik received his undergraduate degree at Nicolaus

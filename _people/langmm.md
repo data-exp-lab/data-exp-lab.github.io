@@ -9,6 +9,7 @@ position: Research Scientist
 honorific: Dr.
 aka: [Meagan, 'Lang, Meagan']
 desig: staff
+start_year: 2015
 ---
 
 Dr. Meagan Lang recieved her undergraduate degree at Pennsylvania

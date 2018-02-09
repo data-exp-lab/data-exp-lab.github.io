@@ -35,7 +35,7 @@ layout: base
         {%endfor%}
         </li>
         <li>Published in {{pub['journal']}} ({{pub['month']}} / {{pub['year']}})<br/>
-        {% if pub['doi'] %}<li style="margin-top:5px;">DOI: <a href="{{pub['doi']}}">{{pub['doi']}}</a></li>{% endif %}
+        {% if pub['doi'] %}<li style="margin-top:5px;">DOI: <a href="https://dx.doi.org/{{pub['doi']}}">{{pub['doi']}}</a></li>{% endif %}
   <br/><br/>
     </div>
   </div>

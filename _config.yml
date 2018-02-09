@@ -46,3 +46,6 @@ collections:
   people:
     output: true
     permalink: /:collection/:name
+    end_year: nil
+    start_year: nil
+    homepage: nil

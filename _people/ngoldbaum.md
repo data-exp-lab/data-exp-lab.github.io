@@ -10,6 +10,7 @@ honorific: Dr.
 aka: [Nathan, 'Goldbaum, Nathan', 'Goldbaum, Nathan J.', 'Nathan J. Goldbaum',
 'Nathan Goldbaum', 'Nathan J Goldbaum']
 desig: staff
+start_year: 2015
 ---
 
 Nathan's research focuses on the dynamics of the interstellar medium,

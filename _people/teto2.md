@@ -10,6 +10,8 @@ honorific:
 aka: [Ting-Wai To, Ting-Wai, 'To, Ting-Wai']
 desig: undergrad
 status: former
+start_year: 2016
+end_year: 2017
 ---
 
 Ting-Wai To is an undergraduate student at UIUC studying mechanical

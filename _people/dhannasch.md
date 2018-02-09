@@ -10,6 +10,8 @@ honorific:
 aka: [David, 'Hannasch, David']
 desig: grad
 status: former
+start_year: 2014
+end_year: 2017
 ---
 
 David Hannasch is a graduate student in mathematics and computer

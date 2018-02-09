@@ -10,6 +10,8 @@ honorific: Dr.
 aka: [Bobby, 'Thompson, Robert', 'Thompson, Robert J.', 'Robert Thompson']
 desig: postdoc
 status: former
+start_year: 2015
+end_year: 2016
 ---
 
 Dr. Thompson earned his PhD. from the University of Nevada Las Vegas

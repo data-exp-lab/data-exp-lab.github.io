@@ -19,6 +19,13 @@
           <div class="small">
           {{p.content | markdownify}}
           </div>
+          {% if p['start_year'] and p['end_year'] %}
+          <li>Joined {{p['start_year']}}, departed {{p['end_year']}}</li>
+          {% elsif p['start_year'] %}
+          <li>Joined {{p['start_year']}}</li>
+          {% elsif p['end_year'] %}
+          <li>Departed {{p['end_year']}}</li>
+          {%endif%}
         </li>
       </ul>
     </div>

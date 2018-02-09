@@ -10,6 +10,8 @@ honorific: Dr.
 aka: ['Lindsay, Alexander']
 desig: postdoc
 status: former
+start_year: 2016
+end_year: 2017
 ---
 
 Dr. Alex Lindsay did his PhD work at North Carolina State University,
