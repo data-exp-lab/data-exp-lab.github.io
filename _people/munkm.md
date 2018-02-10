@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Madicken Munk
+given: Madicken
+family: Munk
 id: munkm
 avatar: /assets/img/people/munkm.jpg 
 email: madicken.munk@gmail.com

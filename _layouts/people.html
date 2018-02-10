@@ -12,9 +12,9 @@ layout: base
     </header>
 
 <div class="container" style="margin-top: 2em;">
-  {% assign designations = "faculty, staff, postdoc, grad, undergrad" | split: ", " %}
+{% assign designations = "faculty, staff, postdoc, grad, undergrad" | split: ", " %}
 {% for des in designations %}
-{% assign folks = site.people | where:"desig",des %}
+{% assign folks = site.people | where:"desig",des | sort:"family" %}
 {% for p in folks %}
 {% if p['status'] == 'former' %}{%continue%}{%endif%}
 {% include person_entry.html p = p %}

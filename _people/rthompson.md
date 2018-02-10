@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Robert Thompson
+given: Robert
+family: Thompson
 id: rthompson
 avatar: /assets/img/people/rthompson.jpg
 email: rthompsonj@gmail.com

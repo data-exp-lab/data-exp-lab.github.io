@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Kacper Kowalik
+given: Kacper
+family: Kowalik
 id: xarthisius
 avatar: /assets/img/people/kacper-kowalik.jpg
 email: xarthisius.kk@gmail.com

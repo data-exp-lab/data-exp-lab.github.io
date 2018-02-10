@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Matthew Turk
+given: Matthew
+family: Turk
 id: mturk
 avatar: /assets/img/matthew-turk.jpg
 email: matthewturk@gmail.com

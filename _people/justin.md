@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Hsi-Yu Schive
+given: Hsi-Yu
+family: Schive
 id: justin
 avatar: /assets/img/people/justin.jpg
 email: hyschive@gmail.com

@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Allyson Julian
+given: Allyson
+family: Julian
 id: ajulian
 avatar: 
 email: julian3@illinois.edu

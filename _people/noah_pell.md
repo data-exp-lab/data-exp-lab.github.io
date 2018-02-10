@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Noah Pell
+given: Noah
+family: Pell
 id: noah_pell
 avatar: /assets/img/people/noah_pell.jpg
 email: noahpell@live.com
