@@ -85,6 +85,16 @@
     name: Colleen Heinemann
     position: Graduate Student
   website: https://github.com/cropsinsilico/
+- _id: GAMER
+  status: active
+  description: GPU-accelerated Adaptive Mesh Refinement simulation code
+  logo: /assets/img/logos/gamer_logo.png
+  repo: https://github.com/gamer-project/gamer
+  team:
+    - name: Hsi-Yu Schive
+      position: Creator, Lead Developer
+    - name: Wei-Ting Liao
+      position: Graduate Student
 - _id: Bitmap Indices
   status: active
   description: Fast, memory-efficient indexing for datasets composed of discrete
