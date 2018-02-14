@@ -10,7 +10,7 @@ homepage: https://github.com/Nathanael-Claussen
 position: Research Intern
 honorific:
 aka: [Nate, Nathanael, 'Nathanael Claussen', 'Nate Claussen', 'Nathanael M. Claussen']
-desig: paid intern
+desig: undergrad
 start_year: 2017
 ---
 
