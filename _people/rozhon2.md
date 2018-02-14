@@ -2,6 +2,8 @@
 layout: person
 name: Charles Rozhon
 id: rozhon2
+given: Charles
+family: Rozhon
 avatar: 
 email: rozhon2@illinois.edu
 homepage: 

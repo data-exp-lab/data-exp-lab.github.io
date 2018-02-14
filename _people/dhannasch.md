@@ -1,6 +1,8 @@
 ---
 layout: person
 name: David Hannasch
+given: David
+family: Hannasch
 id: dhannasch
 avatar: 
 email: david.a.hannasch@gmail.com

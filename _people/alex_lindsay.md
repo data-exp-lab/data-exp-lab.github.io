@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Alex Lindsay
+given: Alex
+family: Lindsay
 id: alex_lindsay
 avatar: /assets/img/people/alex_lindsay.jpg
 email: al007@illinois.edu

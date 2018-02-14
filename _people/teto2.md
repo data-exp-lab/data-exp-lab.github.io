@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Ting-Wai To
+given: Ting-Wai
+family: To
 id: teto2
 avatar: /assets/img/people/ting-wai-to.jpg
 email: teto2@illinois.edu

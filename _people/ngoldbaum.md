@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Nathan Goldbaum
+given: Nathan
+family: Goldbaum
 id: ngoldbaum
 avatar: /assets/img/people/nathang.jpg
 email: nathan12343@gmail.com

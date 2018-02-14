@@ -1,6 +1,8 @@
 ---
 layout: person
 name: Meagan Lang
+given: Meagan
+family: Lang
 id: langmm
 avatar: /assets/img/people/langmm.jpg
 email: langmm.astro@gmail.com
