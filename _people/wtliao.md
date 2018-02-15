@@ -3,6 +3,7 @@ layout: person
 name: Wei-Ting Liao
 given: Wei-Ting
 family: Liao
+avatar: /assets/img/people/weiting.JPG
 id: wt-liao
 email: weiting.natii@gmail.com
 position: Graduate student
