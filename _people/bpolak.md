@@ -13,7 +13,6 @@ desig: Undergrad
 aka: Brooke
 status: current
 start_year: 2018
-end_year: 
 
 ---
 
