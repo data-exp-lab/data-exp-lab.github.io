@@ -3,7 +3,7 @@ layout: person
 name: Brooke Polak
 given: Brooke
 family: Polak
-id: bp
+id: bpolak
 avatar: 
 email: bp4928@gmail.com
 position: Undergraduate Research Assistant
