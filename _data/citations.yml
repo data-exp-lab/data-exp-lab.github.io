@@ -299,6 +299,16 @@
   year: '2017'
   yearmonth: 2017-12
 - authors:
+  - Ui-Han Zhang
+  - Hsi-Yu Schive
+  - Tzihong Chiueh
+  journal: arXiv
+  month: 4
+  title: Magnetohydrodynamics with GAMER
+  url: https://arxiv.org/abs/1804.03479v1
+  year: '2018'
+  yearmonth: 2018-04
+- authors:
   - Robert Thompson
   - "Romeel Dav\xE9"
   - Shuiyao Huang
