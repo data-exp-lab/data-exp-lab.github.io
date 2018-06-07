@@ -2,7 +2,7 @@
 layout: person
 name: Colleen Heinemann
 id: heinmnn2
-avatar: /assets/img/people/image.jpg
+avatar: /assets/img/people/colleen.jpg
 email: heinmnn2@illinois.edu
 homepage: 
 position: Graduate Student
