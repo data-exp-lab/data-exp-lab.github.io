@@ -95,6 +95,21 @@
       position: Creator, Lead Developer
     - name: Wei-Ting Liao
       position: Graduate Student
+- _id: unyt
+  status: active
+  description: Unit handling library in Python for numerical quantities
+  logo: 
+  repo: https://github.com/yt-project/unyt
+  team:
+  - begin_year: 2018
+    name: Nathan Goldbaum
+    position: Project Lead
+  - begin_year: 2018
+    name: Kacper Kowalik
+    position: Developer
+  - begin_year: 2018
+    name: Matthew Turk
+    position: Developer
 - _id: Bitmap Indices
   status: active
   description: Fast, memory-efficient indexing for datasets composed of discrete
