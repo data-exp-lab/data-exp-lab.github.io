@@ -2,7 +2,7 @@
 layout: person
 name: Sam Walkow
 id: swalkow2
-avatar: 
+avatar:/assets/img/people/swalkow.jpg
 email: swalkow2@illinois.edu
 homepage: 
 position: Graduate Student
