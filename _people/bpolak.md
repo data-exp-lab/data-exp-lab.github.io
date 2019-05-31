@@ -11,9 +11,9 @@ position: Undergraduate Research Assistant
 honorific: 
 desig: undergrad
 aka: ['Brooke']
-status: current
+status: former
 start_year: 2018
-
+end_year: 2019
 ---
 
 Brooke Polak is an undergraduate studying Engineering Physics at UIUC,
