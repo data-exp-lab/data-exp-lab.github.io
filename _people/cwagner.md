@@ -8,6 +8,7 @@ homepage: https://astro.illinois.edu/directory/profile/cwagner4
 position: Graduate Student
 honorific: 
 desig: grad 
+aka: []
 ---
 
 Cassidy is a graduate student in the Astronomy Department. She received her Bachelor's 
