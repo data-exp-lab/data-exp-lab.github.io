@@ -4,7 +4,7 @@ name: Yilin Xia
 id: yilinx2
 avatar: /assets/img/people/Yilinxia.jpg
 email: yilinx2@illinois.edu
-homepage: www.yilinxia.com
+homepage: https://www.yilinxia.com/
 position: Graduate Student
 honorific: 
 desig: grad 
