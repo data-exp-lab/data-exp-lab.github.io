@@ -6,7 +6,7 @@ family: Havlin
 id: chavlin
 avatar: /assets/img/people/chavlin.jpg
 email: chavlin@illinois.edu
-position: Visiting Research Scientist
+position: Research Scientist
 honorific: Dr.
 aka: [Chris, Christopher,'C. Havlin']
 desig: staff
