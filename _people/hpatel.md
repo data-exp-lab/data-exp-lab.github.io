@@ -15,6 +15,6 @@ start_year: 2020
 Het is a graduate student in the Informatics department. He graduated in
 Spring 2020 from University of Illinois at Urbana-Champaign with a degree
 in Computer Engineering plus a minor in Informatics and then immediately 
-began Graduate School in Fall 2020 amidsta global pandemic. 
+began Graduate School in Fall 2020 amidst a global pandemic. 
 His research is planned to focus on Augmented/Virtual Reality Data
 Visualizations and big data analytics on a multitude of topics.
