@@ -12,6 +12,8 @@ honorific:
 aka: [Nate, Nathanael, 'Nathanael Claussen', 'Nate Claussen', 'Nathanael M. Claussen']
 desig: undergrad
 start_year: 2017
+end_year: 2019
+status: former
 ---
 
 Nathanael Claussen is pursuing a bachelor's degree degree in Statistics at the University of Illinois at Urbana-Champaign. He has worked as an intern for The Data Exploration Lab at the National Center for Supercomputing Applications in Urbana, Illinois. His research interests are in data processing, analysis, and visualization in addition to lowering the barrier of entry to these fields of exploration.

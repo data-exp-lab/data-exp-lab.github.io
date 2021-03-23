@@ -9,6 +9,7 @@ position: Graduate Student
 honorific: 
 desig: grad
 aka: ['Het', 'Xinh']
+start_year: 2020
 ---
 
 Het is a graduate student in the Informatics department. He graduated in

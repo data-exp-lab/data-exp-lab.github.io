@@ -10,7 +10,7 @@ homepage: http://munkm.github.io
 position: Post-doctoral scholar
 honorific: Dr.
 aka: [Madicken, 'Munk, Madicken', 'Munk, M.' ]
-desig: postdoc
+desig: staff
 start_year: 2017
 ---
 

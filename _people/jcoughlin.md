@@ -9,7 +9,7 @@ email: jcoughl3@illinois.edu
 homepage: http://jcoughlin11.github.io
 position: Post-doctoral Research Associate
 honorific: Dr.
-aka: []
+aka: ['Jared']
 desig: postdoc
 start_year: 2018
 ---
