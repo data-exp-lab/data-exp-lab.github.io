@@ -9,6 +9,9 @@ position: Graduate Student
 honorific: 
 desig: grad 
 aka: []
+status: former
+start_year: 2018
+end_year: 2021
 ---
 
 Cassidy is a graduate student in the Astronomy Department. She received her Bachelor's 
