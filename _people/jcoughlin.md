@@ -11,7 +11,9 @@ position: Post-doctoral Research Associate
 honorific: Dr.
 aka: ['Jared']
 desig: postdoc
+status: former
 start_year: 2018
+end_year: 2021
 ---
 
 Jared Coughlin earned his undergraduate degree in Astrophysics from Villanova University
