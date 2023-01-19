@@ -180,7 +180,7 @@
   - begin_year: 2020
     name: Chris Havlin
     position: Developer
-_ _id: yt-napari
+  _id: yt-napari
   status: active
   description: yt-napari is a suite of plugins and methods for loading data 
     from yt into napari.
