@@ -180,6 +180,16 @@
   - begin_year: 2020
     name: Chris Havlin
     position: Developer
+_ _id: yt-napari
+  status: active
+  description: yt-napari is a suite of plugins and methods for loading data 
+    from yt into napari.
+  logo: /assets/img/logos/yt_napari.png
+  repo: https://github.com/data-exp-lab/yt-napari
+  team:
+  - begin_year: 2020
+    name: Chris Havlin
+    position: Lead Developer
 - _id: Virtual Reality for SciViz
   status: active
   description: Loading scientific data into Unity3D with the aim of presenting
