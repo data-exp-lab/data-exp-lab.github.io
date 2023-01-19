@@ -11,6 +11,7 @@ position: Post-doctoral scholar
 honorific: Dr.
 aka: [Madicken, 'Munk, Madicken', 'Munk, M.' ]
 desig: staff
+status: former
 start_year: 2017
 ---
 

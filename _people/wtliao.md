@@ -9,6 +9,7 @@ email: weiting.natii@gmail.com
 position: Graduate student
 aka: ["Wei-Ting", 'Wei-Ting, Liao']
 desig: grad
+status: former
 start_year: 2016
 end_year: 2020
 ---
