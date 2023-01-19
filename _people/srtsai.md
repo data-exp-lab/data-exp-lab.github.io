@@ -7,7 +7,7 @@ id: srtsai
 avatar: /assets/img/people/srtsai.jpg
 email: srtsai@illinois.edu
 homepage: 
-position: visiting research scientist
+position: Research Scientist
 honorific: 
 aka: []
 start_year: 2022
