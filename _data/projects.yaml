@@ -39,6 +39,14 @@
     begin_year: 2015
     name: Chuck Rozhon
     position: Developer
+  - begin_month: July
+    begin_year: 2020
+    name: Chris Havlin
+    position: Developer
+  - begin_month: July
+    begin_year: 2022
+    name: Shin-Rong Tsai
+    position: Developer
   website: http://yt-project.org/
 - _id: Whole Tale
   status: active
@@ -84,6 +92,10 @@
     begin_year: 2017
     name: Colleen Heinemann
     position: Graduate Student
+  - begin_month: 9
+    begin_year: 2021
+    name: Yilin Xia
+    position: Graduate Student
   website: https://github.com/cropsinsilico/
 - _id: GAMER
   status: active
@@ -109,6 +121,9 @@
     position: Developer
   - begin_year: 2018
     name: Matthew Turk
+    position: Developer
+  - begin_year: 2020
+    name: Chris Havlin
     position: Developer
 - _id: Bitmap Indices
   status: active
@@ -146,12 +161,12 @@
     name: Matthew Turk
     position: Developer
   website: https://docs.hub.yt
-- _id: OpenGL Volume Rendering for yt
+- _id: OpenGL Volume Rendering for yt (yt_idv)
   status: active
   description: Adding support for interactively volume rendering adaptive mesh
     refinement data in yt
   logo: /assets/img/logos/openglvr.png
-  repo: https://bitbucket.org/yt_analysis/yt
+  repo: https://github.com/yt-project/yt_idv
   team:
   - begin_year: 2014
     name: Chuck Rozhon
@@ -162,6 +177,19 @@
   - begin_year: 2014
     name: Matthew Turk
     position: Developer
+  - begin_year: 2020
+    name: Chris Havlin
+    position: Developer
+_ _id: yt-napari
+  status: active
+  description: yt-napari is a suite of plugins and methods for loading data 
+    from yt into napari.
+  logo: /assets/img/logos/yt_napari.png
+  repo: https://github.com/data-exp-lab/yt-napari
+  team:
+  - begin_year: 2020
+    name: Chris Havlin
+    position: Lead Developer
 - _id: Virtual Reality for SciViz
   status: active
   description: Loading scientific data into Unity3D with the aim of presenting
