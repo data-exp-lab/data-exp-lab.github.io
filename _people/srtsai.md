@@ -10,6 +10,7 @@ homepage:
 position: Research Scientist
 honorific: 
 aka: []
+desig: staff
 start_year: 2022
 ---
 
