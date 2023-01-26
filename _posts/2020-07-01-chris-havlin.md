@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chris Havlin joins DXL
-date:  2021-07-01
+date:  2020-07-01
 ---
 
 The Data Exploration Lab welcomes Chris Havlin as a Research Scientist in the School of Information Sciences!
